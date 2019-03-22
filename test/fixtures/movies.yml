@@ -6,7 +6,7 @@ one:
   year: 1
   rating: MyString
   description: MyText
-  image_URL: MyString
+  image_url: MyString
 
 two:
   name: MyString
@@ -14,4 +14,4 @@ two:
   year: 1
   rating: MyString
   description: MyText
-  image_URL: MyString
+  image_url: MyString
